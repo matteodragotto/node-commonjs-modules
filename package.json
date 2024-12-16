@@ -1,0 +1,22 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "## Esercizio:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteodragotto/node-commonjs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteodragotto/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/matteodragotto/node-commonjs-modules#readme"
+}
